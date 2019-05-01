@@ -1,0 +1,46 @@
+.title {
+    text-align: center;
+    background-color:  rgb(170, 192, 231);
+    color: white;
+    font-size: 50px;
+    margin: 10 auto;
+    padding: 15px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(247, 201, 201);
+}
+
+table {
+    margin: 50px;
+    border: 5px solid rgb(170, 192, 231);
+    border-collapse: collapse;
+    float: left;
+}
+
+th { 
+    font-size: 25px;
+    color: white;
+    border: 5px solid rgb(170, 192, 231);
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+}
+
+.center { 
+    display: table;
+    margin: 0 auto;
+}
+
+.input {
+    margin: 0 40px;
+    font-size: 25px;
+}
+
+.input input {
+    font-size: 25px;
+    width: 200px;
+    margin-right: 20px;
+}
